@@ -1,7 +1,3 @@
-# Game Instructions
+![image](https://github.com/MartinaJohn/Tic-Tac-Toe-Game/assets/87894064/b7295efa-db8d-4512-9c3d-9fb8eb183b58)
 
-- press 'g' to change gamemode (pvp or ai)
-- press '0' to change ai level to 0 (random)
-- press '1' to change ai level to 1 (impossible)
-- press 'r' to restart the game
 
